@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Means Web';
+    src: url('./MeansWeb.woff2') format('woff2'),
+         url('./MeansWeb.woff') format('woff'),
+         url('./MeansWeb.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Graphik Web';
+    src: url('./GraphikWeb.woff2') format('woff2'),
+         url('./GraphikWeb.woff') format('woff'),
+         url('./GraphikWeb.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Means Web', Georgia, Times, 'Times New Roman', serif;
+  }
+  
